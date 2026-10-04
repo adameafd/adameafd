@@ -68,7 +68,7 @@ Import d'un fichier **CSV ou Excel** et génération automatique d'un **dashboar
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Claude](https://img.shields.io/badge/API_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
-🔒 *Code source privé — démonstration disponible sur demande.*
+🔗 **[Démo en ligne](https://datapilot-ecru.vercel.app)** · 🔒 *Code source privé*
 
 ### 🏙️ [NOVA — Smart City Management Platform](https://github.com/adameafd/nova)
 Plateforme de gestion de ville intelligente : **alertes citoyennes**, **interventions techniques**, **messagerie interne** et **monitoring IoT en temps réel**.
@@ -79,7 +79,7 @@ Plateforme de gestion de ville intelligente : **alertes citoyennes**, **interven
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
-🔗 **[Démo en ligne](https://nova-flame-three.vercel.app)** · 📂 **[Code source](https://github.com/adameafd/nova)**
+📂 **[Code source](https://github.com/adameafd/nova)**
 
 ### 💼 [Portfolio](https://github.com/adameafd/portfolio) · 🧾 [Gestion des ventes](https://github.com/adameafd/gestiondesventes)
 Mon portfolio personnel (Vue 3 + TypeScript) et une application de gestion des ventes (PHP / MySQL).
