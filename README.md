@@ -1,13 +1,14 @@
 <div align="center">
 
-# Afdari Adame
+# Adame Afdari
 
 ### Étudiant en ingénierie informatique · Cybersécurité & Développement Backend
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Applications+web+s%C3%A9curis%C3%A9es+et+structur%C3%A9es;API+REST+%E2%80%A2+Node.js+%E2%80%A2+PHP+%E2%80%A2+MySQL;S%C3%A9curit%C3%A9+applicative+%26+bonnes+pratiques+OWASP;%C3%80+la+recherche+d'un+stage+en+cybers%C3%A9curit%C3%A9" alt="Typing SVG" />
 
-![Statut](https://img.shields.io/badge/Statut-Recherche%20de%20stage%20en%20cybers%C3%A9curit%C3%A9-2ea44f?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-S%C3%A9curit%C3%A9%20applicative-0d1117?style=for-the-badge&logo=letsencrypt&logoColor=white)
+<a href="https://www.linkedin.com/in/adame-afdari"><img src="https://img.shields.io/badge/LinkedIn-Adame%20Afdari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/adameafd/portfolio"><img src="https://img.shields.io/badge/Portfolio-Voir-111827?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Portfolio" /></a>
+<img src="https://img.shields.io/badge/Statut-Recherche%20de%20stage%20en%20cybers%C3%A9curit%C3%A9-2ea44f?style=for-the-badge" alt="Statut" />
 
 </div>
 
@@ -16,59 +17,72 @@
 ## 👨‍💻 À propos
 
 Étudiant en ingénierie informatique, je conçois des **applications web sécurisées, structurées et orientées bonnes pratiques**.
-Je m'intéresse particulièrement à la **sécurité applicative** : protection des API, gestion des rôles et permissions, validation des entrées et recommandations **OWASP**.
+Je m'intéresse particulièrement à la **sécurité applicative** : protection des API, authentification, gestion des rôles et permissions, validation des entrées et recommandations **OWASP**.
 
 - 🔐 **Spécialisation** : cybersécurité & développement backend
-- 🛠️ **Je construis** : API REST, back-offices, dashboards d'administration
+- 🛠️ **Je construis** : API REST, plateformes SaaS, dashboards d'administration, outils d'analyse de données
+- 🤖 **J'explore** : l'intégration de l'IA (API Claude) et du Machine Learning dans des applications web
 - 🎯 **Objectif** : un **stage en cybersécurité** pour mettre mes compétences en pratique en environnement professionnel
-- 📚 **En ce moment** : approfondissement de la sécurité des applications web et des API
 
 ---
 
 ## 🧰 Stack technique
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,java,nodejs,express,mysql&theme=dark" alt="Backend" /><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,vite&theme=dark" alt="Frontend" /><br/>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode&theme=dark" alt="Outils" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,java,python,fastapi,mysql&theme=dark" alt="Backend" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,vite&theme=dark" alt="Frontend" /><br/>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,vercel,vscode&theme=dark" alt="Outils" />
 </p>
 
 | Domaine | Compétences |
 |---|---|
-| **Backend** | API REST, PHP, Java, Node.js / Express, MySQL, gestion des rôles & permissions |
-| **Frontend** | HTML, CSS, JavaScript, React, Vue, interfaces d'administration & dashboards |
-| **Cybersécurité** | Bonnes pratiques OWASP, validation des entrées, authentification (sessions / JWT) |
-| **DevOps & outils** | Docker, Git / GitHub, Linux, VS Code |
+| **Backend** | Node.js / Express, API REST, PHP, Java, MySQL, Sequelize, gestion des rôles & permissions |
+| **Frontend** | HTML, CSS, JavaScript / TypeScript, React, Next.js, Vue, Tailwind CSS, dashboards |
+| **Cybersécurité** | Bonnes pratiques OWASP, JWT, bcrypt, Helmet, rate limiting, validation des entrées, audit de sécurité |
+| **Data & IA** | Python, FastAPI, Pandas, scikit-learn, API Claude (Anthropic) |
+| **DevOps & outils** | Docker, Git / GitHub, GitHub Actions, Vercel, Render, Linux |
 
 ---
 
 ## 🚀 Projets phares
+
+### 🛡️ AFD Security — Plateforme SaaS d'audit de sécurité
+Application SaaS d'audit de sécurité : **analyse de sites web**, **robustesse des mots de passe**, **détection de fuites de données** et **génération de rapports**, avec des offres **Free, Pro et Expert** et un espace d'administration.
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+🔒 *Code source privé — démonstration disponible sur demande.*
+
+### 📊 DataPilot — Plateforme d'analyse de données assistée par IA
+Import d'un fichier **CSV ou Excel** et génération automatique d'un **dashboard** (indicateurs clés, graphiques adaptés aux données), d'une **synthèse par IA**, d'un **assistant conversationnel** (API Claude), d'une **prédiction de tendance par Machine Learning** et d'un **rapport PDF** professionnel.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Claude](https://img.shields.io/badge/API_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+
+🔒 *Code source privé — démonstration disponible sur demande.*
 
 ### 🏙️ [NOVA — Smart City Management Platform](https://github.com/adameafd/nova)
 Plateforme de gestion de ville intelligente : **alertes citoyennes**, **interventions techniques**, **messagerie interne** et **monitoring IoT en temps réel**.
 
 ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express_5-000000?style=flat-square&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL_8-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 
 🔗 **[Démo en ligne](https://nova-flame-three.vercel.app)** · 📂 **[Code source](https://github.com/adameafd/nova)**
 
-### 💼 [Portfolio](https://github.com/adameafd/portfolio)
-Portfolio personnel présentant mon parcours, mes compétences et mes projets en cybersécurité et développement backend.
-
-![Vue](https://img.shields.io/badge/Vue_3-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-### 📊 [Gestion des ventes](https://github.com/adameafd/gestiondesventes)
-Application web de gestion des ventes développée en PHP avec une base de données MySQL.
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### 💼 [Portfolio](https://github.com/adameafd/portfolio) · 🧾 [Gestion des ventes](https://github.com/adameafd/gestiondesventes)
+Mon portfolio personnel (Vue 3 + TypeScript) et une application de gestion des ventes (PHP / MySQL).
 
 ---
 
@@ -77,7 +91,8 @@ Application web de gestion des ventes développée en PHP avec une base de donn�
 | Année | Étape |
 |---|---|
 | **2024** | Stage d'observation & projets web (PHP / MySQL) |
-| **2025** | Approfondissement en cybersécurité & développement de NOVA (React / Node.js / MySQL) |
+| **2025** | Approfondissement en cybersécurité · NOVA (React / Node.js / MySQL) |
+| **2026** | AFD Security (SaaS d'audit de sécurité) · DataPilot (analyse de données & IA) |
 | **Aujourd'hui** | 🔎 Recherche d'un stage en cybersécurité |
 
 ---
@@ -96,7 +111,8 @@ Application web de gestion des ventes développée en PHP avec une base de donn�
 ### 📫 Me contacter
 
 Ouvert aux opportunités de **stage en cybersécurité** et aux échanges autour de la sécurité applicative.
-N'hésitez pas à me contacter via mon [portfolio](https://github.com/adameafd/portfolio) ou à consulter mes [dépôts](https://github.com/adameafd?tab=repositories).
+
+<a href="https://www.linkedin.com/in/adame-afdari"><img src="https://img.shields.io/badge/Me%20contacter%20sur-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 ![Visiteurs](https://komarev.com/ghpvc/?username=adameafd&color=2f81f7&style=flat-square&label=Visites+du+profil)
 
