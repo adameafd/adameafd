@@ -2,13 +2,13 @@
 
 # Adame Afdari
 
-### Étudiant en ingénierie informatique · Cybersécurité & Développement Backend
+### Étudiant en ingénierie logicielle · DevOps · Full Stack · Backend · Frontend
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Applications+web+s%C3%A9curis%C3%A9es+et+structur%C3%A9es;API+REST+%E2%80%A2+Node.js+%E2%80%A2+PHP+%E2%80%A2+MySQL;S%C3%A9curit%C3%A9+applicative+%26+bonnes+pratiques+OWASP;%C3%80+la+recherche+d'un+stage+en+cybers%C3%A9curit%C3%A9" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Stage+de+fin+d'%C3%A9tudes+%E2%80%A2+6+mois+%E2%80%A2+d%C3%A8s+le+8+f%C3%A9vrier+2027;DevOps+%E2%80%A2+Full+Stack+%E2%80%A2+Backend+%E2%80%A2+Frontend;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Docker+%E2%80%A2+CI%2FCD;Applications+web+s%C3%A9curis%C3%A9es+et+structur%C3%A9es" alt="Typing SVG" />
 
 <a href="https://www.linkedin.com/in/adame-afdari"><img src="https://img.shields.io/badge/LinkedIn-Adame%20Afdari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/adameafd/portfolio"><img src="https://img.shields.io/badge/Portfolio-Voir-111827?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Portfolio" /></a>
-<img src="https://img.shields.io/badge/Statut-Recherche%20de%20stage%20en%20cybers%C3%A9curit%C3%A9-2ea44f?style=for-the-badge" alt="Statut" />
+<img src="https://img.shields.io/badge/Stage%20de%20fin%20d'%C3%A9tudes-6%20mois%20d%C3%A8s%20le%208%20f%C3%A9vrier%202027-2ea44f?style=for-the-badge" alt="Stage de fin d'études" />
 
 </div>
 
@@ -16,13 +16,13 @@
 
 ## 👨‍💻 À propos
 
-Étudiant en ingénierie informatique, je conçois des **applications web sécurisées, structurées et orientées bonnes pratiques**.
-Je m'intéresse particulièrement à la **sécurité applicative** : protection des API, authentification, gestion des rôles et permissions, validation des entrées et recommandations **OWASP**.
+Étudiant en ingénierie logicielle, je conçois des **applications web complètes, sécurisées et structurées** — de l'interface utilisateur jusqu'au déploiement.
+J'aime travailler sur toute la chaîne : **frontend** (React, Next.js, Vue), **backend** (Node.js / Express, API REST, MySQL), **DevOps** (Docker, CI/CD avec GitHub Actions, déploiement Vercel / Render) et **sécurité applicative** (authentification, rôles et permissions, bonnes pratiques OWASP).
 
-- 🔐 **Spécialisation** : cybersécurité & développement backend
+- 💻 **Profil** : développeur Full Stack orienté Backend & DevOps, sensible à la sécurité
 - 🛠️ **Je construis** : API REST, plateformes SaaS, dashboards d'administration, outils d'analyse de données
 - 🤖 **J'explore** : l'intégration de l'IA (API Claude) et du Machine Learning dans des applications web
-- 🎯 **Objectif** : un **stage en cybersécurité** pour mettre mes compétences en pratique en environnement professionnel
+- 🎯 **Je recherche** : un **stage de fin d'études de 6 mois à partir du 8 février 2027** en **DevOps, Full Stack, Backend ou Frontend**
 
 ---
 
@@ -93,7 +93,7 @@ Mon portfolio personnel (Vue 3 + TypeScript) et une application de gestion des v
 | **2024** | Stage d'observation & projets web (PHP / MySQL) |
 | **2025** | Approfondissement en cybersécurité · NOVA (React / Node.js / MySQL) |
 | **2026** | AFD Security (SaaS d'audit de sécurité) · DataPilot (analyse de données & IA) |
-| **Aujourd'hui** | 🔎 Recherche d'un stage en cybersécurité |
+| **8 février 2027** | 🔎 Disponible pour un stage de fin d'études de 6 mois (DevOps · Full Stack · Backend · Frontend) |
 
 ---
 
@@ -110,7 +110,7 @@ Mon portfolio personnel (Vue 3 + TypeScript) et une application de gestion des v
 
 ### 📫 Me contacter
 
-Ouvert aux opportunités de **stage en cybersécurité** et aux échanges autour de la sécurité applicative.
+Disponible pour un **stage de fin d'études de 6 mois à partir du 8 février 2027** en **DevOps, Full Stack, Backend ou Frontend**.
 
 <a href="https://www.linkedin.com/in/adame-afdari"><img src="https://img.shields.io/badge/Me%20contacter%20sur-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
