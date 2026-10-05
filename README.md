@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Stage+de+fin+d'%C3%A9tudes+%E2%80%A2+6+mois+%E2%80%A2+d%C3%A8s+le+8+f%C3%A9vrier+2027;DevOps+%E2%80%A2+Full+Stack+%E2%80%A2+Backend+%E2%80%A2+Frontend;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Docker+%E2%80%A2+CI%2FCD;Applications+web+s%C3%A9curis%C3%A9es+et+structur%C3%A9es" alt="Typing SVG" />
 
 <a href="https://www.linkedin.com/in/adame-afdari"><img src="https://img.shields.io/badge/LinkedIn-Adame%20Afdari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/adameafd/portfolio"><img src="https://img.shields.io/badge/Portfolio-Voir-111827?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Portfolio" /></a>
+<a href="https://adameafd.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Voir-111827?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Portfolio" /></a>
 <img src="https://img.shields.io/badge/Stage%20de%20fin%20d'%C3%A9tudes-6%20mois%20d%C3%A8s%20le%208%20f%C3%A9vrier%202027-2ea44f?style=for-the-badge" alt="Stage de fin d'études" />
 
 </div>
@@ -55,7 +55,7 @@ Application SaaS d'audit de sécurité : **analyse de sites web**, **robustesse 
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript_ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-🔒 *Code source privé — démonstration disponible sur demande.*
+🔗 **[Démo en ligne](https://afd-security.onrender.com)** · 🔒 *Code source privé*
 
 ### 📊 DataPilot — Plateforme d'analyse de données assistée par IA
 Import d'un fichier **CSV ou Excel** et génération automatique d'un **dashboard** (indicateurs clés, graphiques adaptés aux données), d'une **synthèse par IA**, d'un **assistant conversationnel** (API Claude), d'une **prédiction de tendance par Machine Learning** et d'un **rapport PDF** professionnel.
